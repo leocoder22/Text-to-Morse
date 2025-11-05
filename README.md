@@ -26,3 +26,8 @@ Type `cmd` and hit Enter — this opens the Command Prompt window.
 In the Command Prompt, type:
 ```bash
 cd Desktop
+```
+Then type:
+```bash
+python 82_Day_Text_To_Morse.py
+```
